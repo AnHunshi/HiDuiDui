@@ -1,0 +1,4 @@
+com\hisense\service\MenuService.class
+com\hisense\service\impl\MenuServiceImpl.class
+com\hisense\entity\Menu.class
+com\hisense\mapper\MenuMapper.class

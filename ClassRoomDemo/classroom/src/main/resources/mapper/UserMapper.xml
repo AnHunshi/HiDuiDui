@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.hisense.mapper.UserMapper">
+    <select id="queryUserInfo" resultType="com.hisense.entity.User" >
+        SELECT username,password,enable FROM table_11_1_2_2_1_30_1 where id=#{id}
+    </select>
+</mapper>
