@@ -1,0 +1,4 @@
+com\hisense\mapper\UserMapper.class
+com\hisense\service\impl\IndexServiceImpl.class
+com\hisense\service\IndexService.class
+com\hisense\entity\User.class
